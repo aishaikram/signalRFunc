@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "signalRFunc": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7149",
+      "launchBrowser": false
+    }
+  }
+}
